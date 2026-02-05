@@ -11,18 +11,18 @@ A aplicação combina **FastAPI** (backend) e **Streamlit** (frontend) para perm
 ---
 
 ## Estrutura do Projeto
-- **Backend (FastAPI)**  
+ **Backend (FastAPI)**  
   - Arquivo principal: `backend.py`  
   - Endpoint: `POST /simular`  
   - Responsável por processar os cálculos financeiros e retornar os resultados.
 
-- **Frontend (Streamlit)**  
+ **Frontend (Streamlit)**  
   - Arquivo principal: `frontend/app.py`  
   - Interface gráfica moderna e responsiva para interação com o usuário.  
   - Inputs: Mês de Início, Valor Inicial, Taxa de Juros (% ao mês), Prazo (meses).  
   - Outputs: Cards estilizados com métricas e gráficos interativos (linha e pizza).  
 
-- **Ambiente Virtual (venv)**  
+ **Ambiente Virtual (venv)**  
   - Gerenciamento de dependências e bibliotecas necessárias (`fastapi`, `uvicorn`, `streamlit`, `pandas`, `plotly`).  
 
 ---
