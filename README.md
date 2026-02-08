@@ -38,7 +38,7 @@ A aplicação combina **FastAPI** (backend) e **Streamlit** (frontend) para perm
 
 ### ⚙️ Instalação e Execução
 
-### 1. Clonar o repositório
+#### 1. Clonar o repositório
 ```bash
 git clone https://github.com/seu-usuario/simulador-financeiro.git
 cd simulador-financeiro
