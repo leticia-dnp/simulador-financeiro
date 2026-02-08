@@ -36,7 +36,7 @@ A aplicação combina **FastAPI** (backend) e **Streamlit** (frontend) para perm
 
 ---
 
-# ⚙️ Instalação e Execução
+### ⚙️ Instalação e Execução
 
 ### 1. Clonar o repositório
 ```bash
